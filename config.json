@@ -1,5 +1,5 @@
 {
-  "NYLAS_ACCESS_TOKEN": "replace-me",
-  "NYLAS_CLIENT_ID": "replace-me",
-  "NYLAS_CLIENT_SECRET": "replace-me"
+  "NYLAS_ACCESS_TOKEN": "replace_me",
+  "NYLAS_CLIENT_ID": "replace_me",
+  "NYLAS_CLIENT_SECRET": "replace_me"
 }
