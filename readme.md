@@ -2,11 +2,9 @@
 
 ## Dependencies & Setup
 
-To get started activate a virtualenv and then install dependencies with
+To get started install the dependencies with
 
 ```bash
-virtualenv .venv
-. .venv/bin/activate
 pip install -r requirements.txt
 ```
 
